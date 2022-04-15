@@ -1,4 +1,4 @@
-HELLO WORL!
+HELLO from Zhandos
 
 git init -> для ининциализации локального репозитория
 
